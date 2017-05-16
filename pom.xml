@@ -13,11 +13,11 @@
   <distributionManagement>
     <repository>
       <id>releases</id>
-      <url>http://54.213.235.84:8081/nexus/content/repositories/jenkins/</url>
+      <url>http://70.117.108.5:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
-      <url>http://54.213.235.84:8081/nexus/content/repositories/jenkins/</url>
+      <url>http://70.117.108.5:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
