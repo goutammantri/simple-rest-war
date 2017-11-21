@@ -9,7 +9,7 @@
     <jersey.version>2.13</jersey.version>
   </properties>
     
-  <distributionManagement>
+  <!--distributionManagement>
     <repository>
         <id>central</id>
         <name>5ccae9d761cc-releases</name>
@@ -20,7 +20,7 @@
         <name>5ccae9d761cc-snapshots</name>
         <url>http://cicd-repo-v1.stackaero.com:8081/artifactory/aero-repo</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement-->
   
   
   <dependencies>
