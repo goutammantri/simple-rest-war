@@ -15,11 +15,11 @@
         <name>5ccae9d761cc-snapshots</name>
         <url>http://cicd-repo-v1.stackaero.com:8081/artifactory/aero-repo</url>
     </snapshotRepository>
-    <repository>
+    <!--repository>
         <id>central</id>
         <name>5ccae9d761cc-releases</name>
         <url>http://cicd-repo-v1.stackaero.com:8081/artifactory/aero-repo</url>
-    </repository>
+    </repository-->
 </distributionManagement>
   
   
