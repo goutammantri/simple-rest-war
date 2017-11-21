@@ -60,7 +60,7 @@
       <evenIfUnstable>false</evenIfUnstable>
       <details>
         <artifactoryName>central</artifactoryName>
-        <artifactoryUrl>http://cicd-repo-v1.stackaero.com:8081/artifactory</artifactoryUrl>
+        <artifactoryUrl>MENTION URL HERE</artifactoryUrl>
         <deployReleaseRepository>
           <keyFromText>aero-repo</keyFromText>
           <keyFromSelect></keyFromSelect>
