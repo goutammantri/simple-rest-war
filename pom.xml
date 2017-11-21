@@ -9,18 +9,7 @@
     <jersey.version>2.13</jersey.version>
   </properties>
     
-  <distributionManagement>
-    <!--snapshotRepository>
-        <id>snapshots</id>
-        <name>5ccae9d761cc-snapshots</name>
-        <url>http://cicd-repo-v1.stackaero.com:8081/artifactory/aero-repo</url>
-    </snapshotRepository-->
-    <repository>
-        <id>snapshots</id>
-        <name>5ccae9d761cc-releases</name>
-        <url>http://cicd-repo-v1.stackaero.com:8081/artifactory/aero-repo</url>
-    </repository>
-</distributionManagement>
+
   
   
   <dependencies>
